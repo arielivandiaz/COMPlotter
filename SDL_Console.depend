@@ -1,0 +1,1143 @@
+# depslib dependency file v1.0
+1448633487 source:z:\benedic\prim2\sdl_console\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1448633672 z:\benedic\prim2\sdl_console\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1326111000 c:\program files (x86)\codeblocks\mingw\include\sdl\begin_code.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\close_code.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255940894 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1448591654 z:\benedic\prim2\sdl_console\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1325810434 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1448600508 z:\benedic\prim2\sdl_console\\keyboard.h
+
+1448633949 z:\benedic\prim2\sdl_console\console.h
+	"Keyboard.h"
+	"variables.h"
+
+1448600508 z:\benedic\prim2\sdl_console\keyboard.h
+
+1462936159 source:z:\benedic\prim2\sdl_console - copia\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"Mouser.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1449564749 z:\benedic\prim2\sdl_console - copia\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+
+1448591654 z:\benedic\prim2\sdl_console - copia\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1449371564 z:\benedic\prim2\sdl_console - copia\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1448679629 z:\benedic\prim2\sdl_console - copia\keyboard.h
+
+1448744659 z:\benedic\prim2\sdl_console - copia\flash_strings.h
+	"variables.h"
+
+1448746083 z:\benedic\prim2\sdl_console - copia\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"juliet.h"
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1449383717 z:\benedic\prim2\sdl_console - copia\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+
+1388534914 c:\program files (x86)\codeblocks\mingw\include\sdl\sdl_gfxprimitives.h
+	<math.h>
+	"SDL/SDL.h"
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1448656406 z:\benedic\prim2\sdl_console - copia\flash_time.h
+	"variables.h"
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1448740579 z:\benedic\prim2\sdl_console - copia\juliet.h
+
+1449234918 z:\benedic\prim2\sdl_console - copia\debug.h
+	"variables.h"
+	"Mouser.h"
+
+1449437212 z:\benedic\prim2\sdl_console - copia\mouser.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1449244826 z:\benedic\prim2\sdl_console - copia\flash_class.h
+	"Mouser.h"
+	"variables.h"
+
+1449565615 z:\benedic\prim2\sdl_console - copia\flash_draw.h
+	"variables.h"
+
+1449437223 z:\benedic\prim2\sdl_console - copia\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1477875312 source:z:\benedic\prim2\sdl_console - copia - simple\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"Mouser.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1477862351 z:\benedic\prim2\sdl_console - copia - simple\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+
+1448591654 z:\benedic\prim2\sdl_console - copia - simple\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1477878334 z:\benedic\prim2\sdl_console - copia - simple\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1477858497 z:\benedic\prim2\sdl_console - copia - simple\keyboard.h
+
+1477878035 z:\benedic\prim2\sdl_console - copia - simple\flash_strings.h
+	"variables.h"
+
+1477878650 z:\benedic\prim2\sdl_console - copia - simple\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"juliet.h"
+
+1448740579 z:\benedic\prim2\sdl_console - copia - simple\juliet.h
+
+1477872084 z:\benedic\prim2\sdl_console - copia - simple\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+
+1477872084 z:\benedic\prim2\sdl_console - copia - simple\flash_draw.h
+	"variables.h"
+
+1477872084 z:\benedic\prim2\sdl_console - copia - simple\flash_time.h
+	"variables.h"
+
+1477875298 z:\benedic\prim2\sdl_console - copia - simple\debug.h
+	"variables.h"
+	"Mouser.h"
+
+1449437212 z:\benedic\prim2\sdl_console - copia - simple\mouser.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1449244826 z:\benedic\prim2\sdl_console - copia - simple\flash_class.h
+	"Mouser.h"
+	"variables.h"
+
+1477872084 z:\benedic\prim2\sdl_console - copia - simple\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1478465010 source:z:\benedic\prim2\sdl_console - copia - simple++\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"Mouser.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1478421822 z:\benedic\prim2\sdl_console - copia - simple++\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+	<windows.h>
+
+1448591654 z:\benedic\prim2\sdl_console - copia - simple++\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1477887997 z:\benedic\prim2\sdl_console - copia - simple++\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1477858497 z:\benedic\prim2\sdl_console - copia - simple++\keyboard.h
+
+1477883600 z:\benedic\prim2\sdl_console - copia - simple++\flash_strings.h
+	"variables.h"
+
+1478412094 z:\benedic\prim2\sdl_console - copia - simple++\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"flash_comunication.h"
+	"flash_draw.h"
+
+1477886539 z:\benedic\prim2\sdl_console - copia - simple++\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+	"debug.h"
+
+1478413358 z:\benedic\prim2\sdl_console - copia - simple++\flash_draw.h
+	"variables.h"
+	<math.h>
+	"SDL/SDL_gfxPrimitives.h"
+	"flash_signalproccs.h"
+
+1477872084 z:\benedic\prim2\sdl_console - copia - simple++\flash_time.h
+	"variables.h"
+
+1477970403 z:\benedic\prim2\sdl_console - copia - simple++\debug.h
+	"variables.h"
+	"Mouser.h"
+
+1477970460 z:\benedic\prim2\sdl_console - copia - simple++\flash_class.h
+	"Mouser.h"
+	"variables.h"
+
+1478398976 z:\benedic\prim2\sdl_console - copia - simple++\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1449437212 z:\benedic\prim2\sdl_console - copia - simple++\mouser.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1478465293 z:\benedic\prim2\sdl_console - copia - simple++\flash_comunication.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"variables.h"
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\conio.h
+	<_mingw.h>
+
+1478414349 z:\benedic\prim2\sdl_console - copia - simple++\flash_signalproccs.h
+
+1478491843 source:z:\benedic\prim2\sdl_console - fft simple++\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"Mouser.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1478491280 z:\benedic\prim2\sdl_console - fft simple++\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+	<windows.h>
+
+1448591654 z:\benedic\prim2\sdl_console - fft simple++\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1478493216 z:\benedic\prim2\sdl_console - fft simple++\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1477858497 z:\benedic\prim2\sdl_console - fft simple++\keyboard.h
+
+1478489233 z:\benedic\prim2\sdl_console - fft simple++\flash_strings.h
+	"variables.h"
+
+1478485752 z:\benedic\prim2\sdl_console - fft simple++\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"flash_comunication.h"
+	"flash_draw.h"
+
+1478493216 z:\benedic\prim2\sdl_console - fft simple++\flash_comunication.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"variables.h"
+
+1478497713 z:\benedic\prim2\sdl_console - fft simple++\flash_draw.h
+	"variables.h"
+	<math.h>
+	"SDL/SDL_gfxPrimitives.h"
+	"flash_signalproccs.h"
+
+1478494991 z:\benedic\prim2\sdl_console - fft simple++\flash_signalproccs.h
+
+1478466099 z:\benedic\prim2\sdl_console - fft simple++\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+	"debug.h"
+
+1478484620 z:\benedic\prim2\sdl_console - fft simple++\debug.h
+	"variables.h"
+	"Mouser.h"
+
+1449437212 z:\benedic\prim2\sdl_console - fft simple++\mouser.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1478484365 z:\benedic\prim2\sdl_console - fft simple++\flash_time.h
+	"variables.h"
+
+1477970460 z:\benedic\prim2\sdl_console - fft simple++\flash_class.h
+	"Mouser.h"
+	"variables.h"
+
+1478398976 z:\benedic\prim2\sdl_console - fft simple++\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1478491843 source:i:\magi\benedic\prim2\sdl_console - fft simple++\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"Mouser.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1478491280 i:\magi\benedic\prim2\sdl_console - fft simple++\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+	<windows.h>
+
+1448591654 i:\magi\benedic\prim2\sdl_console - fft simple++\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1478493216 i:\magi\benedic\prim2\sdl_console - fft simple++\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1477858497 i:\magi\benedic\prim2\sdl_console - fft simple++\keyboard.h
+
+1478489233 i:\magi\benedic\prim2\sdl_console - fft simple++\flash_strings.h
+	"variables.h"
+
+1478485752 i:\magi\benedic\prim2\sdl_console - fft simple++\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"flash_comunication.h"
+	"flash_draw.h"
+
+1478493216 i:\magi\benedic\prim2\sdl_console - fft simple++\flash_comunication.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"variables.h"
+
+1478497713 i:\magi\benedic\prim2\sdl_console - fft simple++\flash_draw.h
+	"variables.h"
+	<math.h>
+	"SDL/SDL_gfxPrimitives.h"
+	"flash_signalproccs.h"
+
+1478494991 i:\magi\benedic\prim2\sdl_console - fft simple++\flash_signalproccs.h
+
+1478466099 i:\magi\benedic\prim2\sdl_console - fft simple++\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+	"debug.h"
+
+1478484620 i:\magi\benedic\prim2\sdl_console - fft simple++\debug.h
+	"variables.h"
+	"Mouser.h"
+
+1449437212 i:\magi\benedic\prim2\sdl_console - fft simple++\mouser.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1478484365 i:\magi\benedic\prim2\sdl_console - fft simple++\flash_time.h
+	"variables.h"
+
+1477970460 i:\magi\benedic\prim2\sdl_console - fft simple++\flash_class.h
+	"Mouser.h"
+	"variables.h"
+
+1478398976 i:\magi\benedic\prim2\sdl_console - fft simple++\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1500672978 source:d:\codeblocks\prim2\sdl_console - fft simple++\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"Mouser.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1478491282 d:\codeblocks\prim2\sdl_console - fft simple++\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+	<windows.h>
+
+1448591656 d:\codeblocks\prim2\sdl_console - fft simple++\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1478493218 d:\codeblocks\prim2\sdl_console - fft simple++\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1477858498 d:\codeblocks\prim2\sdl_console - fft simple++\keyboard.h
+
+1478489234 d:\codeblocks\prim2\sdl_console - fft simple++\flash_strings.h
+	"variables.h"
+
+1478485754 d:\codeblocks\prim2\sdl_console - fft simple++\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"flash_comunication.h"
+	"flash_draw.h"
+
+1478493218 d:\codeblocks\prim2\sdl_console - fft simple++\flash_comunication.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"variables.h"
+
+1478497714 d:\codeblocks\prim2\sdl_console - fft simple++\flash_draw.h
+	"variables.h"
+	<math.h>
+	"SDL/SDL_gfxPrimitives.h"
+	"flash_signalproccs.h"
+
+1478494992 d:\codeblocks\prim2\sdl_console - fft simple++\flash_signalproccs.h
+
+1478466100 d:\codeblocks\prim2\sdl_console - fft simple++\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+	"debug.h"
+
+1478484622 d:\codeblocks\prim2\sdl_console - fft simple++\debug.h
+	"variables.h"
+	"Mouser.h"
+
+1449437214 d:\codeblocks\prim2\sdl_console - fft simple++\mouser.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1478484366 d:\codeblocks\prim2\sdl_console - fft simple++\flash_time.h
+	"variables.h"
+
+1477970462 d:\codeblocks\prim2\sdl_console - fft simple++\flash_class.h
+	"Mouser.h"
+	"variables.h"
+
+1478398978 d:\codeblocks\prim2\sdl_console - fft simple++\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
+1500764153 source:i:\magi\benedic\prim2\sdl com_plotter\com_plotter\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1500763849 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+	<windows.h>
+
+1500763545 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\sdl_system.h
+	<string>
+	"SDL/SDL_image.h"
+
+1478493218 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1477858498 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\keyboard.h
+
+1478489234 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\flash_strings.h
+	"variables.h"
+
+1478485754 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"flash_comunication.h"
+	"flash_draw.h"
+
+1478493218 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\flash_comunication.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"variables.h"
+
+1500730923 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\flash_draw.h
+	"variables.h"
+	<math.h>
+	"SDL/SDL_gfxPrimitives.h"
+	"flash_signalproccs.h"
+
+1478494992 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\flash_signalproccs.h
+
+1500765000 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+	"debug.h"
+
+1500763849 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\debug.h
+	"variables.h"
+
+1449437214 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\mouser.h
+	<windows.h>
+	<iostream>
+	<vector>
+
+1478484366 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\flash_time.h
+	"variables.h"
+
+1500730160 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\flash_class.h
+	"variables.h"
+
+1500764189 i:\magi\benedic\prim2\sdl com_plotter\com_plotter\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"variables.h"
+
+1502362247 source:z:\benedic\prim2\sdl com_plotter\com_plotter\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"variables.h"
+	"SDL_system.h"
+	"console.h"
+	<ctype.h>
+	"flash_time.h"
+	"debug.h"
+	"flash_class.h"
+	"flash_windows.h"
+
+1502361076 z:\benedic\prim2\sdl com_plotter\com_plotter\variables.h
+	<SDL/SDL.h>
+	"SDL/SDL_ttf.h"
+	<time.h>
+	<windows.h>
+
+1502282263 z:\benedic\prim2\sdl com_plotter\com_plotter\sdl_system.h
+	<string>
+
+1502279203 z:\benedic\prim2\sdl com_plotter\com_plotter\console.h
+	"Keyboard.h"
+	"variables.h"
+	"flash_strings.h"
+	"line_fuctions.h"
+	"HUD.h"
+
+1477858498 z:\benedic\prim2\sdl com_plotter\com_plotter\keyboard.h
+
+1502279250 z:\benedic\prim2\sdl com_plotter\com_plotter\flash_strings.h
+	"variables.h"
+
+1478485754 z:\benedic\prim2\sdl com_plotter\com_plotter\line_fuctions.h
+	"variables.h"
+	<time.h>
+	<windows.h>
+	"flash_comunication.h"
+	"flash_draw.h"
+
+1502362312 z:\benedic\prim2\sdl com_plotter\com_plotter\flash_comunication.h
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"variables.h"
+	"flash_signalproccs.h"
+
+1502279915 z:\benedic\prim2\sdl com_plotter\com_plotter\flash_draw.h
+	"variables.h"
+	<math.h>
+	"SDL/SDL_gfxPrimitives.h"
+	"flash_signalproccs.h"
+
+1502368982 z:\benedic\prim2\sdl com_plotter\com_plotter\flash_signalproccs.h
+	"variables.h"
+
+1502395796 z:\benedic\prim2\sdl com_plotter\com_plotter\hud.h
+	<SDL/SDL.h>
+	"SDL/SDL_gfxPrimitives.h"
+	<time.h>
+	"variables.h"
+	"flash_draw.h"
+	"debug.h"
+
+1502204918 z:\benedic\prim2\sdl com_plotter\com_plotter\debug.h
+	"variables.h"
+
+1478484366 z:\benedic\prim2\sdl com_plotter\com_plotter\flash_time.h
+	"variables.h"
+
+1500730160 z:\benedic\prim2\sdl com_plotter\com_plotter\flash_class.h
+	"variables.h"
+
+1502130523 z:\benedic\prim2\sdl com_plotter\com_plotter\flash_windows.h
+	<SDL/SDL.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"variables.h"
+
